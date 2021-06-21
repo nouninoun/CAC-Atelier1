@@ -8,4 +8,4 @@
 ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github fork")  
 
 ### Ma propre image
-![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/cartoon-girl-limages-2.jpg "Github img")
+![alt text](https://github.com/nouninoun/CAC-Atelier1/blob/main/img/cartoon-girl-limages-2.jpg "Github img")
