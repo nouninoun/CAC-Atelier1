@@ -17,18 +17,39 @@ Pour cela nous allons utiliser l'option FORK de Github.
 ### Récupération des modifications
 Afin de récupérer les modifications faites à ce moment vous allez effectuer ce que l'on appelle un "Fetch and Merge" :  : ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fetchandmerge.PNG "Github merge")  
 
-
 ## Manipulations sur le dépôt
-### Modification sur un fichier
+### Création d'un nouveau fichier
+Vous allez créer votre propre partie du dépot.
+Pour cela vous allez créer un nouveau fichier.
+Dans le nom du fichier vous allez taper : [votrenom]/fichier.md
+Dans le contenu du fichier vous allez taper :
+```
+  # Je suis un titre 1
+
+  ## Je suis un titre 2
+
+  ### Je suis un titre 3
+
+  ### Ceci est une image
+  ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github img")
+
+  ### Ma propre image
+  ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github img")
+```
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/newfile.PNG "Github newfile")  
+### Enregistrement des modifications
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/savefile.PNG "Github savefile")  
 
 
-### Appliquer vos nouvelles modifications sur le dépôt Github
-#### Sur votre Git Bash (ou console sur Linux)
 
-### Vérifier vos modifications
+## Envoyez vos modifications sous forme de pull-request
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/pull.PNG "Github pull")  
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/validatepull.PNG "Github validatepull")  
+
+
 
 
 
 ## Si vous voulez jeter un oeil aux lignes de commande
-Ensuite prenez rapidement connaissance des commandes : [Liste des commandes pour Git](GIT_commandes.md)  
+Ensuite prenez rapidement connaissance des commandes : [Liste des commandes pour Git](https://github.com/ellenhaas/INF2050_Laboratoires/blob/master/Lab1/GIT_commandes.md)  
 Vous pourrez vous servir de ce fichier de commandes comme aide mémoire.  
